@@ -64,8 +64,8 @@ lib
 .yarnrc
 
 # lock files
-package-lock.json
-yarn.lock
+# package-lock.json
+# yarn.lock
 
 # Editor configurations
 .idea
