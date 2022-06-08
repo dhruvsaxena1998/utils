@@ -1,0 +1,7 @@
+# Dist
+lib/**
+dist/**
+build/**
+
+# Dependencies
+node_modules/**
