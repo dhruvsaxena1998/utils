@@ -1,15 +1,17 @@
-# Typescript Nodejs NPM Package Template
+# Utils
 
-Easily build typescript supported nodejs npm package. Ready to publish and use.
+Provides general utility functions.
 
 ## Build package
+
 ```bash
 $ npm run lint
 
-$ npm run prepare
+$ npm run build
 ```
 
 ## Publish package
+
 ```bash
 $ npm init --scope=@myorg
 
